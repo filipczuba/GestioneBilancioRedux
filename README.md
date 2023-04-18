@@ -10,4 +10,4 @@ List of changes:
 - Added graph generator;
 - Added XSLX/ODS support to the export function.
 
-For any other question regarding documentation and makefile, please refer to the [following README file](https://github.com/filipczuba/GestioneBilancio/README.md).
+For any other question regarding documentation and makefile, please refer to the [following README file](https://github.com/filipczuba/GestioneBilancio/blob/master/README.md).
