@@ -1,4 +1,4 @@
-Simple Java implementation of bookkeeping software.
+Fork of [https://github.com/filipczuba/GestioneBilancio](filipczuba/GestioneBilancio)
 
 The software has the following functionalities:
 
