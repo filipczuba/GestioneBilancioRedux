@@ -1,16 +1,17 @@
-# GestioneBilancio
-
 Simple Java implementation of bookkeeping software.
 
 The software has the following functionalities:
 
-- Adding, editing and deleting entries;
-- Searching entries based on their description's contents;
-- Filtering the entries based upon a time interval;
-- Automatically saving the entries and loading them upon opening;
-- Manually saving and loading a list of entries from a file;
-- Exporting the list of entries as plain text or CSV;
-- Printing.
+-[x] Adding, editing and deleting entries;
+-[x] Searching entries based on their description's contents;
+-[x] Filtering the entries based upon a time interval;
+-[x] <del>Automatically saving the entries and loading them upon opening</del> Deprecated;
+-[x] <del>Manually saving and loading a list of entries from a file</del> Deprecated;
+-[x] Exporting the list of entries as plain text or CSV;
+-[x] Printing;
+-[] Database integration via JDBC;
+-[] Simple data analytics suite;
+-[] Simple gra
 
 The software is commentend in italian with Javadoc-style comments and doesn't use any external library. The UI is handled by Java Swing.
 
