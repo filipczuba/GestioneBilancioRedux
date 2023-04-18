@@ -1,4 +1,4 @@
-Fork of [https://github.com/filipczuba/GestioneBilancio](filipczuba/GestioneBilancio)
+Fork of [filipczuba/GestioneBilancio](/filipczuba/GestioneBilancio)
 
 The software has the following functionalities:
 
