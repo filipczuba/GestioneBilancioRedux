@@ -11,3 +11,5 @@ List of changes:
 - Added XSLX/ODS support to the export function.
 
 For any other question regarding documentation and makefile, please refer to the [following README file](https://github.com/filipczuba/GestioneBilancio/blob/master/README.md).
+
+Project developed by [Tommaso Quintavalli](https://github.com/tommaso2311) and [Filip Czuba](https://github.com/filipczuba).
