@@ -9,9 +9,9 @@ The software has the following functionalities:
 - [X] <del>Manually saving and loading a list of entries from a file</del> Deprecated;
 - [X] Exporting the list of entries as plain text or CSV;
 - [X] Printing;
-- [] Database integration via JDBC;
-- [] Simple data analytics suite;
-- [] Simple gra
+- [ ] Database integration via JDBC;
+- [ ] Simple data analytics suite;
+- [ ] Simple gra
 
 The software is commentend in italian with Javadoc-style comments and doesn't use any external library. The UI is handled by Java Swing.
 
